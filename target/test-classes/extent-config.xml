@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<extentreports>
+	<configuration>
+		<theme>standard</theme>
+		<encode>UTF-8</encode>
+		<documentTitle>ExtentReport</documentTitle>
+	</configuration>
+</extentreports>
